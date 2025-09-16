@@ -2,7 +2,7 @@
 
 El cliente está a cargo de una tienda de pañuelos y necesita un programa con el cual controlar toda la mercancía y las ventas diarias de manera automática. 
 
-Para cumplir con el encargo realizado por el cliente se necesita registrar: 
+Para cumplir con el encargo realizado por el cliente se necesita registrar en el programa: 
 
 - La mercancía total de pañuelos al empezar el día. 
 
